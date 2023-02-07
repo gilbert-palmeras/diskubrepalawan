@@ -17,7 +17,7 @@ export const getTourPackages = async (index = -1) => {
       image: '/images/package/p-alpha3.png',
       date: '6 Day & 5 night',
       title: 'Praesent sed elit mi nullaam. In risus nullaam efficitur non.',
-      price: '$102.00',
+      price: '$105.00',
     },
     {
       image: '/images/package/p-alpha4.png',
